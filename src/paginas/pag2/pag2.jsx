@@ -44,8 +44,7 @@ const Pag2 = () => {
           <Card className="shadow" style={cardStyle}>
             <Card.Body>
               <Card.Text className="mb-4" style={{ fontSize: '1.25rem' }}>
-                Te quiero para abrazarte, para disfrutar de un rato más juntos, para reír, para cuidarte como tú lo haces. Quiero estar a tu lado en lo bueno y en lo malo, quiero compartir cada paso contigo. Quiero verte crecer y que nuestros éxitos y derrotas se vuelvan nuestros. No importa lo que pase, siempre buscaré tus brazos para otro abrazo.
-              </Card.Text>
+               Gracias por hacerme vivir tantos lindos momentos y hice esto para recordar un poco los momentos tan especiales que pasamos juntos te quiero demasiado.              </Card.Text>
               <img src={gatoflor} alt="Gato Flor" className="img-fluid mb-4 rounded" style={{ maxWidth: '100%', height: 'auto', width: '250px' }} />
               <Card.Text className="mb-4" style={{ fontSize: '1.25rem' }}>
                 Ya ha pasado un mes desde que nos conocimos y quería hacer algo bonito. Gracias, corazón de melón, por ser esa persona maravillosa que llegó a mi vida de forma tan inesperada. Eres el mejor regalo que la vida me pudo dar. Estar contigo siempre es un momento tan hermoso; te quiero tal como eres, con todas tus risas y esos momentos random que tanto disfruto. Siempre logras que quiera pasar un rato más contigo.
